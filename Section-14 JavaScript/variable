@@ -1,0 +1,7 @@
+
+var myName = "Soni" ;
+myName = "Change ";
+
+var yourName = prompt("What is ur name ?");
+
+alert("My name is " + myName + ", welcome to  my course "+ youtube + "!");

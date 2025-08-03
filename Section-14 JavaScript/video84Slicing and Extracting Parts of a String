@@ -1,0 +1,11 @@
+
+var name ="Soni";
+name.slice(0,1); // we will not include 1 
+output --
+"S"
+
+---
+var name ="Soni";
+name.slice(0,2); // we will not include 2
+output --
+"So"

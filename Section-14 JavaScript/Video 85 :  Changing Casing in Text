@@ -1,0 +1,11 @@
+
+var name  = "Angela";
+name.toUpperCase() ;
+output :--
+ANGELA
+
+var name  = "Angela";
+name.toLowerCase() ;
+
+output :
+angela 
